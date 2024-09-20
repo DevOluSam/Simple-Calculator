@@ -18,7 +18,7 @@ function App() {
   return (
     <CalProvider>
       <div>
-         <div className='logo-wrapper'>
+         <div className='logo-container'>
           <img src={logo_icon} alt="logo-icon" />
         </div>
       <Wrapper>

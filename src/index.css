@@ -48,19 +48,19 @@ body{
   
 }
 
-.logo-wrapper{
+.logo-container{
   width: 15rem;
   height: 5rem;
   margin: 0 auto 3rem;
   
 }
 
-.logo-wrapper:hover{
+.logo-container:hover{
   cursor: pointer;
   transform: rotateX(45deg);
 }
 
-.logo-wrapper img{
+.logo-container img{
   width: 100%;
   height: 100%;
 }
